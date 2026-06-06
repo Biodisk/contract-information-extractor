@@ -1,8 +1,12 @@
-# Contract Data Extractor
+# Minerador de Contratos
 
-Projeto experimental para extração automatizada de informações de contratos.
+Sistema local para extração automatizada de informações de contratos utilizando OCR e modelos de linguagem executados offline.
 
-## Tecnologias
+## Objetivo
+
+Automatizar a identificação e extração de informações relevantes de contratos em vários formatos, reduzindo trabalho manual e aumentando a velocidade de análise documental.
+
+## Tecnologias Utilizadas
 
 - Python
 - OCR
@@ -11,10 +15,19 @@ Projeto experimental para extração automatizada de informações de contratos.
 - Qwen
 - Processamento de PDFs
 
-## Objetivo
+## Funcionalidades
 
-Extrair automaticamente informações estruturadas de contratos digitalizados e disponibilizá-las em formato tabular para análise posterior.
+- Processamento de documentos digitais
+- Processamento de documentos escaneados
+- OCR automático quando necessário
+- Extração estruturada de dados
+- Exportação para planilhas
+- Processamento em lote
 
-## Status
+## Status do Projeto
 
 Em desenvolvimento.
+
+## Autor
+
+Alysson Freire
