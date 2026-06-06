@@ -1,8 +1,9 @@
 # Minerador de Contratos
 
 Sistema local para extração automatizada de informações de contratos utilizando OCR e modelos de linguagem executados offline.
+
 <p align="center">
-  <img src="imagens/pipeline.svg" alt="Pipeline" width="680"/>
+  <img src="imagens/pipeline.png" alt="Pipeline" width="680"/>
 </p>
 
 ## Objetivo
