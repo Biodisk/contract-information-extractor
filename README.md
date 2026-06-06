@@ -2,10 +2,6 @@
 
 Sistema local para extração automatizada de informações de contratos utilizando OCR e modelos de linguagem executados offline.
 
-<p align="center">
-  <img src="imagens/pipeline.png" alt="Pipeline" width="680"/>
-</p>
-
 ## Objetivo
 
 Automatizar a identificação e extração de informações relevantes de contratos em vários formatos, reduzindo trabalho manual e aumentando a velocidade de análise documental.
