@@ -4,8 +4,6 @@ Sistema local para extração automatizada de informações de contratos utiliza
 
 ## Arquitetura
 
-![Pipeline](imagens/pipeline_arquitetura.png)
-
 ## Objetivo
 
 Automatizar a identificação e extração de informações relevantes de contratos em vários formatos, reduzindo trabalho manual e aumentando a velocidade de análise documental.
